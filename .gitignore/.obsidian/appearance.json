@@ -1,6 +1,10 @@
 {
+<<<<<<< HEAD
   "accentColor": "",
   "theme": "moonstone",
   "cssTheme": "Typora-Vue",
   "translucency": false
+=======
+  "accentColor": ""
+>>>>>>> bfde221d36b13609dc13fb7dadaa14e92bbc0155
 }
